@@ -65,4 +65,4 @@ Before running the WebDriverIO automation scripts, ensure you have the following
 Execute your WebDriverIO tests with:
 
 ```bash
-npx wdio --spec .\features\*.featur
+npx wdio --spec .\features\*.feature
